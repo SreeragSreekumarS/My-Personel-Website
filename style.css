@@ -1,0 +1,25 @@
+.bg-dark{
+    position: fixed; 
+    width: 100%; 
+    z-index: 1;
+}
+
+.name{
+    font-size: 52px;
+}
+
+.nav-link{
+    font-size: 20px;
+}
+
+#home-section{
+    padding-top: 10em;
+}
+
+.card text-center p-3{
+    height: 22rem;
+}
+
+.card text-center p-3{
+    style="height: 22rem;
+}
